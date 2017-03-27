@@ -1,0 +1,9 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  Person: one
+  Course: one
+
+two:
+  Person: two
+  Course: two
